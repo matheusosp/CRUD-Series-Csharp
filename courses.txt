@@ -1,0 +1,15 @@
+- Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
+- Configuração da Suíte de testes e aplicando testes integrados em .NET CORE
+- Configuração e Deploy na nuvem Microsoft Azure Cloud
+- Construindo um projeto de uma API.NET integrada ao MongoDB
+- Aplicando design patterns na prática com C#
+- Desenvolvendo sua aplicação com C# usando DDD
+- SQL SERVER - Criando suas primeiras consultas
+- Desenvolvimento de aplicações com .NET (Entity Framework, como criar aplicativos web ASP .NET API e ASP .NET MVC, testes na aplicação e um projeto com Unit Tests.)
+- Introdução a orquestração de contêineres com Docker( um projeto OpenSource que facilita a criação de ambientes isolados com container.)
+- Configuração da arquitetura back-end com .NET Core(desenvolva um projeto com .NET Core usando RESTful APIs e outras funções que otimizam o trabalho com a tecnologia.)
+- Fundamentos para a Criação de Produtos Digitais(Aprenda como definir, criar e evoluir produtos digitais alinhados às necessidades dos clientes e estratégias de negócio.)
+- Primeiros passos com .NET + C# ok
+- Orientação a objetos em .NET ok
+- Criando um APP simples de cadastro de séries em .NET ok
+- Criando uma aplicação de transferências bancárias com .NET ok
